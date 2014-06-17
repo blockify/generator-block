@@ -1,0 +1,11 @@
+.<%= basename %> {
+  background-color: #e5e5e5;
+}
+
+.<%= basename %> h1 {
+  color: #8e44ad;
+}
+
+.<%= basename %> h1:hover {
+  color: #9b59b6;
+}
